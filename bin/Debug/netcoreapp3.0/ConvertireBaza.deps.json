@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ConvertireBaza/1.0.0": {
+        "runtime": {
+          "ConvertireBaza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertireBaza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

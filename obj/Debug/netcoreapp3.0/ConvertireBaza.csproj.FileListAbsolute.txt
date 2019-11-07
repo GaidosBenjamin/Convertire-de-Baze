@@ -1,0 +1,11 @@
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.exe
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.deps.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.runtimeconfig.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.runtimeconfig.dev.json
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.dll
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\bin\Debug\netcoreapp3.0\ConvertireBaza.pdb
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\obj\Debug\netcoreapp3.0\ConvertireBaza.csprojAssemblyReference.cache
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\obj\Debug\netcoreapp3.0\ConvertireBaza.AssemblyInfoInputs.cache
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\obj\Debug\netcoreapp3.0\ConvertireBaza.AssemblyInfo.cs
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\obj\Debug\netcoreapp3.0\ConvertireBaza.dll
+C:\Users\gaido\OneDrive\Počítač\Info\ASC\ConvertireBaza\obj\Debug\netcoreapp3.0\ConvertireBaza.pdb
