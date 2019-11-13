@@ -42,7 +42,7 @@ namespace ConvertireBaza
 
                 rezultat = Math.Round(rezultat, n.Length - n.IndexOf('.'));
             }
-            Console.WriteLine(rezultat);
+            //Console.WriteLine(rezultat);
             return rezultat.ToString();
         }
         static string reverse(string x)
@@ -110,10 +110,21 @@ namespace ConvertireBaza
                 Console.Write("Introduceti numarul de convertit: ");
                 n = Console.ReadLine();
 
-                Console.Write("Introduceti baza numarului: ");
                 try
                 {
+                    System.ArgumentException argEx = new System.ArgumentException();
+                    Console.Write("Introduceti baza numarului: ");
                     baza = int.Parse(Console.ReadLine());
+                    if (baza > 16)
+                    {
+                        throw argEx;
+                    }
+                    Console.Write("Introduceti baza in care doriti sa convertiti: ");
+                    baza2 = int.Parse(Console.ReadLine());
+                    if(baza2 > 16)
+                    {
+                        throw argEx;
+                    }
                 }
                 catch(FormatException)
                 {
@@ -125,24 +136,15 @@ namespace ConvertireBaza
                     Console.WriteLine("Baza numarului este mai mare de 16!");
                     continue;
                 }
-
-                Console.Write("Introduceti baza in care doriti sa convertiti: ");
-                try
+                catch(ArgumentException)
                 {
-                    baza2 = int.Parse(Console.ReadLine());
-                }
-                catch (FormatException)
-                {
-                    Console.WriteLine("Baza numarului este gresita!");
-                    continue;
-                }
-                catch (OverflowException)
-                {
-                    Console.WriteLine("Baza numarului este mai mare de 16!");
+                    Console.WriteLine("Baza numarului trebuie sa fie mai mica de 16!");
                     continue;
                 }
 
-                convertireInBazaX(convertireInBaza10(n, baza), baza2);
+               
+
+                //convertireInBazaX(convertireInBaza10(n, baza), baza2);
 
             }
 

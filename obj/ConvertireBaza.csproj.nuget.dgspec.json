@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gaido\\OneDrive\\Počítač\\Info\\ASC\\ConvertireBaza\\ConvertireBaza.csproj": {}
+    "C:\\Users\\gaido\\Documents\\GitHub\\Convertire-de-Baze\\ConvertireBaza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gaido\\OneDrive\\Počítač\\Info\\ASC\\ConvertireBaza\\ConvertireBaza.csproj": {
+    "C:\\Users\\gaido\\Documents\\GitHub\\Convertire-de-Baze\\ConvertireBaza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaido\\OneDrive\\Počítač\\Info\\ASC\\ConvertireBaza\\ConvertireBaza.csproj",
+        "projectUniqueName": "C:\\Users\\gaido\\Documents\\GitHub\\Convertire-de-Baze\\ConvertireBaza.csproj",
         "projectName": "ConvertireBaza",
-        "projectPath": "C:\\Users\\gaido\\OneDrive\\Počítač\\Info\\ASC\\ConvertireBaza\\ConvertireBaza.csproj",
+        "projectPath": "C:\\Users\\gaido\\Documents\\GitHub\\Convertire-de-Baze\\ConvertireBaza.csproj",
         "packagesPath": "C:\\Users\\gaido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaido\\OneDrive\\Počítač\\Info\\ASC\\ConvertireBaza\\obj\\",
+        "outputPath": "C:\\Users\\gaido\\Documents\\GitHub\\Convertire-de-Baze\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaido\\AppData\\Roaming\\NuGet\\NuGet.Config",
